@@ -5,12 +5,12 @@ Estrutura Inicial
 - 2 CEOs
 - 1 Gerente
 - 2 Supervisores
-- 4 Moderadores
-- 12 Suportes
+- 3 Moderadores
+- 5 Suportes
 
 Todos entram como Suporte, exceto CEOs e Gerente.
 
-O Gerente será responsável por acompanhar, testar e avaliar os 12 Suportes durante um período determinado. Conforme metas e requisitos forem atingidos, os membros poderão subir de cargo.
+O Gerente será responsável por acompanhar, testar e avaliar os 10 Suportes durante um período determinado. Conforme metas e requisitos forem atingidos, os membros poderão subir de cargo.
 
 ---
 
@@ -18,7 +18,7 @@ Requisitos - Moderador
 
 Para ser promovido para Moderador:
 
-- 20 tickets atendidos.
+- 15 tickets atendidos.
 - Média mínima de 80% nas avaliações.
 - Avaliações válidas a partir de 3/5 estrelas.
 - Nota mínima de 300 pontos na prova.
@@ -29,7 +29,7 @@ Requisitos - Supervisor
 
 Para ser promovido para Supervisor:
 
-- 70 tickets atendidos.
+- 30 tickets atendidos.
 - Média mínima de 80% nas avaliações.
 - Avaliações válidas a partir de 4/5 estrelas.
 - Nota mínima de 680 pontos na prova.
@@ -74,9 +74,7 @@ Gerente
 O valor restante será dividido entre:
 
 - CEOs
-- Desenvolvedor(es)
 - Desenvolvimento do projeto
-- Reservas futuras
 
 ---
 
