@@ -115,3 +115,7 @@ Inicialmente, todo o processo de recrutamento será responsabilidade exclusiva d
 O objetivo é garantir que apenas pessoas comprometidas, responsáveis e alinhadas com a visão do servidor ingressem na equipe.
 
 A qualidade da staff será sempre priorizada acima da quantidade de cargos ou privilégios distribuídos.
+
+
+
+Mth.
